@@ -1,13 +1,13 @@
 <p align="right">
   🇧🇷 <b>Português</b> | <a href="README.en.md">🇺🇸 English</a>
 </p>
+
 # Olá, eu sou o Reiner Andre 👋
 
 **Especialista em Business Intelligence & Engenharia de Dados | Oracle SQL, PL/SQL, Python & ERP Iniflex**
-
 *Background em Contabilidade, Custos e Controladoria aplicado à Arquitetura de Dados*
 
-Una a visão analítica de quem já atuou na linha de frente de **Controladoria, Custos e Contabilidade** com a capacidade técnica de extrair, modelar e otimizar dados transacionais em **Oracle Database** e **ERP Iniflex**. Transformo regras de negócio complexas em pipelines SQL performáticos e indicadores confiáveis no **Upquery BI**.
+Uno a visão analítica de quem já atuou na linha de frente de **Controladoria, Custos e Contabilidade** com a capacidade técnica de extrair, modelar e otimizar dados transacionais em **Oracle Database** e **ERP Iniflex**. Transformo regras de negócio complexas em pipelines SQL performáticos e indicadores confiáveis no **Upquery BI**.
 
 ---
 
