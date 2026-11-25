@@ -2,7 +2,7 @@
   🇧🇷 <b>Português</b> | <a href="README.en.md">🇺🇸 English</a>
 </p>
 
-# Olá, eu sou o Reiner Andre 👋
+# Olá, eu sou o Reiner 👋
 
 **Especialista em Business Intelligence & Engenharia de Dados | Oracle SQL, PL/SQL, Python & ERP Iniflex**
 *Background em Contabilidade, Custos e Controladoria aplicado à Arquitetura de Dados*
