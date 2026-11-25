@@ -2,7 +2,7 @@
   <a href="README.md">🇧🇷 Português</a> | 🇺🇸 <b>English</b>
 </p>
 
-# Hi, I'm Reiner Andre 👋
+# Hi, I'm Reiner 👋
 
 **Business Intelligence & Data Engineering Specialist | Oracle SQL, PL/SQL, Python & ERP Iniflex**
 
